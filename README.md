@@ -188,8 +188,8 @@ private func logError(_ error: Error, context: String) {
 
 - **App Store**: [Spenly Finance Manager](https://apps.apple.com/app/spenly/id6736744066)
 - **Support Email**: teamspenlyapp@gmail.com
-- **Privacy Policy**: [View Privacy Policy](./Spenly/Legal/PrivacyPolicy.md)
-- **Terms of Service**: [View Terms of Service](./Spenly/Legal/TermsOfService.md)
+- **Privacy Policy**: [View Privacy Policy](https://rishi-selarka.github.io/spenly-legal/privacy-policy)
+- **Terms of Service**: [View Terms of Service](https://rishi-selarka.github.io/spenly-legal/terms-of-service)
 
 ---
 
