@@ -117,14 +117,22 @@ private func handleCloudKitError(_ error: Error) {
 ### Home View
 *Main dashboard showing expense overview and recent transactions*
 
-### Settings View  
+<img src="https://github.com/user-attachments/assets/4e51892b-2763-47fa-9ac2-706a4bdbe99e" width="300" alt="Spenly Home View">
+
+### Settings View
 *iCloud sync configuration and app preferences*
+
+<img src="https://github.com/user-attachments/assets/cb6fbecc-d9c2-474f-ac67-fe5f1af646f2" width="300" alt="Spenly Settings View">
 
 ### Categories View
 *Expense category management with custom icons*
 
+<img src="https://github.com/user-attachments/assets/196f480a-9951-4a0c-ad3d-afb7601773f9" width="300" alt="Spenly Categories View">
+
 ### Add Transaction View
 *Transaction creation with category selection and receipt attachment*
+
+<img src="https://github.com/user-attachments/assets/42ebd3f9-84b9-4f84-b852-0defa1a049df" width="300" alt="Spenly Add Transaction View">
 
 ## 💻 Code Quality Features
 
