@@ -1,26 +1,45 @@
-# 💰 Spenly - Finance Manager
+# 💰 Spenly - AI Money Manager
 
-**A personal expense tracking app built with SwiftUI, featuring iCloud sync and smart categorization for iOS users.**
+**A modern iPhone expense manager with AI insights, iCloud sync, and pro tooling.**
 
-> **🚀 Live on App Store** - Currently helping users track their daily expenses with seamless cloud synchronization.
+> **🚀 Live on the App Store** — 300+ downloads and 60+ premium users.
 
 [![App Store](https://img.shields.io/badge/App%20Store-Live-blue)](https://apps.apple.com/app/spenly/id6736744066)
 
 ## 📱 App Overview
 
-Spenly is a dark-themed iOS finance manager app that helps users track daily expenses and manage personal budgets. Built entirely with SwiftUI and modern iOS development practices.
+Spenly helps you track expenses, manage budgets, and understand spending with AI-powered insights. Built with SwiftUI (MVVM) and synced securely with iCloud. iPhone only; iPad not supported.
 
 ### ✨ Key Features
 
-- **💳 Expense Tracking** - Add and categorize daily transactions with notes
-- **☁️ iCloud Sync** - Automatic data synchronization across Apple devices
-- **📊 Visual Analytics** - Interactive charts showing spending patterns by category and time
-- **📄 Receipt Attachments** - Attach photos to transactions for record keeping
-- **🌍 Multi-Currency Support** - Track expenses in different currencies with live rates
-- **🌙 Dark Mode Design** - Beautiful dark interface optimized for iOS
-- **📤 Data Export** - Export transaction data to PDF and CSV formats
-- **🔔 Spending Reminders** - Set up notification reminders for expense tracking
-- **👥 Multiple Accounts** - Separate tracking for different financial accounts
+- **🧠 AI Spending Insights** — Context-aware summaries, anomaly hints, and chat
+- **👤 Payee & Payer Management** — Add/search contacts for cleaner records
+- **💳 Expense Tracking** — Fast entry with categories, notes, and receipt links
+- **☁️ iCloud Sync** — Private sync across devices with CloudKit
+- **📊 Visual Analytics** — Trends by category, month, and custom ranges
+- **📄 Receipt Attachments** — Scan and attach receipts to transactions
+- **🌍 Multi-Currency** — Live rates and automatic conversion
+- **📤 Export** — PDF and CSV
+- **🔔 Reminders** — Smart nudges to stay on top of logging
+- **👥 Multiple Accounts** — Cash, cards, and bank accounts
+## 💎 Spenly Premium
+
+Unlock advanced capabilities while supporting development:
+
+- Ad‑free experience
+- Advanced AI analysis and deeper context
+- Unlimited templates and categories
+- Priority receipt processing
+- Richer CSV/PDF export options
+
+> Already supporting the app: 60+ premium users.
+
+## 🧠 AI Capabilities
+
+- Spenly Chat: ask “Why did groceries spike this month?”
+- Auto‑suggest categories from description, merchant, and your history
+- Insights: outlier detection and recurring pattern surfacing
+
 
 ## 🛠 Technical Stack
 
@@ -28,6 +47,7 @@ Spenly is a dark-themed iOS finance manager app that helps users track daily exp
 - **Data Storage**: Core Data with CloudKit integration
 - **Architecture**: MVVM pattern with Combine
 - **Cloud Sync**: CloudKit for device synchronization
+- **AI**: Gemini-based analysis via `AIManager`/`GeminiManager`
 - **Crash Monitoring**: Firebase Crashlytics
 - **Ads**: Google AdMob integration
 - **Minimum iOS**: 16.6+
@@ -170,11 +190,12 @@ private func logError(_ error: Error, context: String) {
 
 ## 📊 Production Status
 
-- **Live on App Store** since launch
-- **Active user base** with real transaction data
-- **CloudKit sync reliability** working in production
-- **Crash monitoring** via Firebase Crashlytics
-- **AdMob integration** generating revenue
+- **Live on the App Store**
+- **300+ downloads**
+- **60+ premium users**
+- **CloudKit sync** reliable in production
+- Crash monitoring via Firebase Crashlytics
+- AdMob integration generating revenue
 
 ## 🧪 Testing & Quality
 
@@ -186,7 +207,7 @@ private func logError(_ error: Error, context: String) {
 
 ## 📞 Contact & Support
 
-- **App Store**: [Spenly Finance Manager](https://apps.apple.com/app/spenly/id6736744066)
+- **App Store**: [Spenly – AI Money Manager](https://apps.apple.com/app/spenly/id6736744066)
 - **Support Email**: teamspenlyapp@gmail.com
 - **Privacy Policy**: [View Privacy Policy](https://rishi-selarka.github.io/spenly-legal/privacy-policy)
 - **Terms of Service**: [View Terms of Service](https://rishi-selarka.github.io/spenly-legal/terms-of-service)
