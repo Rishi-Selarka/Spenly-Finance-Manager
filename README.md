@@ -1,6 +1,6 @@
 # 💰 Spenly - AI Money Manager
 
-**A modern iPhone expense manager with AI insights, iCloud sync, and pro tooling.**
+**An easy and simple money manager with AI insights, iCloud sync, and pro tooling.**
 
 > **🚀 Live on the App Store** — 300+ downloads and 60+ premium users.
 
