@@ -2,7 +2,7 @@
 
 **An easy and simple money manager with AI insights, iCloud sync, and pro tooling.**
 
-> **🚀 Live on the App Store** — 300+ downloads and 60+ premium users.
+> **🚀 Live on the App Store** — 550+ downloads and 65+ premium users.
 
 [![App Store](https://img.shields.io/badge/App%20Store-Live-blue)](https://apps.apple.com/app/spenly/id6736744066)
 
